@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f98da19fee899be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ecab74fdf7d4c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,8 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "156800134a822d8a",
+  "active": "3ecab74fdf7d4c92",
   "lastOpenFiles": [
+    "101-f17/101-f17-index.md",
+    "index.md",
+    "index.html",
+    "101-f17/index.html",
+    "101-f17/101-f17.html.md",
+    "101-f17/101-f17-index.html",
+    "README.md",
     "relg220-s17/wisdom-sayinsgs-s17 - Copy.md",
     "relg220-s17/wisdom-sayings-s17.html",
     "relg220-s17/wisdom-literature.md",
@@ -175,15 +207,7 @@
     "relg220-s17/begin-stories.md",
     "relg220-s17/ancient-letters.md",
     "relg220-s17/4-gospels.md",
-    "relg220-s17/220s17-journals.html~",
-    "relg220-s17/220s17-journals.html",
-    "relg220-s17/220-s17-week9b.html",
     "relg220-s17/220-s17-week6a.md",
-    "relg220-s17/220-s17-week5a.md",
-    "relg220-s17/220-s17-week4b.md",
-    "relg220-s17/220-s17-week4a.md",
-    "relg220-s17/220-s17-week3a.md",
-    "relg220-s17/220-s17-week2b.md",
     "313-f17/img/Cycle-of-Judges.jpeg"
   ]
 }

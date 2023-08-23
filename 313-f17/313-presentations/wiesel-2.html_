@@ -733,7 +733,7 @@ Elie Wiesel’s Night shows that people often question their faith in God when f
 <p> Created by Dale Hathaway. </p>
 	<!-- below 2 </div> > -->
 		<script src="../../lib/js/head.min.js"></script>
-		<script src="../../js/reveal.min.js"></script>
+		<script src="../../js/reveal.js"></script>
 
 		<script>
 
